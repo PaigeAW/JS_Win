@@ -5,4 +5,4 @@
 5. сооздал кнопку, останавливающую движение персонажа
 
 
-git@github.com:PaigeAW/Js_progect.git
+https://paigeaw.github.io/JS_Win/
